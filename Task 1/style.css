@@ -11,6 +11,8 @@ body {
   justify-content: center;
   align-items: center;
   padding: 40px 10px;
+  font-weight: bold;
+  
 }
 
 .container {
@@ -19,6 +21,14 @@ body {
   flex-wrap: wrap;
   justify-content: center;
 }
+.card-image {
+  width: 100%;
+  max-width: 240px;
+  height: auto;
+  margin: 15px auto;
+  display: block;
+}
+
 
 .card {
   background: #ffffff;
