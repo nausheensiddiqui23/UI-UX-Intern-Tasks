@@ -13,3 +13,9 @@ body{
   overflow: hidden;
   box-shadow: 0 0 15px rgba(0,0,0,0.1);
 }
+.header{
+    background-color: #ffe3d0;
+    text-align: center;
+    padding: 30px 20px;
+    position: relative;
+}
