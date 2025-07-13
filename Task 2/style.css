@@ -36,3 +36,18 @@ body{
     margin: 10px 0;
     color: #000;
 }
+.highlight p {
+  font-size: 14px;
+  color: #444;
+  margin-bottom: 20px;
+}
+.btn {
+  background-color: #ff5a1f;
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  margin-top: 10px;
+}
