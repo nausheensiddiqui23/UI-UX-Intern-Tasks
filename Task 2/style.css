@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #fff4ed;
+}
+
+.newsletter-container {
+
+    max-width: 600px;
+  margin: 20px auto;
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
