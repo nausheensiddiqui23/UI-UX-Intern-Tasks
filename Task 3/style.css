@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    font-family: 'Georgia', serif;
+    font-family: cursive ;
     background-color: #2c1a16;
     color: #f4e4c1;
 }
@@ -23,7 +23,7 @@ body{
 
 .section-title {
     font-size: 2rem;
-    font-family: 'Cursive' , sans-serif;
+    font-family:   sans-serif;
     position: relative;
     margin-bottom: 1rem;
 }
