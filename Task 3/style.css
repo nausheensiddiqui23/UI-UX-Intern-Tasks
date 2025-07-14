@@ -35,3 +35,18 @@ body{
     border-radius: 8px;
     font-size: 1.5rem;
 }
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.4rem 0;
+    border-bottom: 1px dotted #f4e4c1;
+}
+li span: last-child{
+    font-weight: bold;
+    
+}
